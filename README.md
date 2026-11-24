@@ -1,6 +1,6 @@
 # Hi, I'm Precious (Gbeminiyi) Awolade
 
-**Data Scientist and Machine Learning practitioner** | Python, SQL, scikit-learn, Streamlit
+**Data Scientist** with machine learning experience in fraud detection, classification and churn analytics | Python, SQL, scikit-learn, Streamlit
 Based in Lancashire, UK. Open to Data Scientist, ML Engineer and Data Analyst roles.
 
 [LinkedIn](https://www.linkedin.com/in/precious-awolade-21257819a) | [Tableau Public](https://public.tableau.com/app/profile/precious.gbeminiyi/vizzes) | gbeminiyiprecious721@gmail.com
@@ -21,7 +21,7 @@ More: [Power BI dashboards](https://github.com/gbeminiyiprecious721-cmd/power-bi
 - Document everything: README, model card, data card, reproducible environment.
 
 ## Background
-Over two years in regulated food-manufacturing quality assurance (audit records, root cause analysis, CAPA, KPI reporting), now working in data science and machine learning.
+Over two years in regulated food-manufacturing quality assurance (audit records, root cause analysis, CAPA, KPI reporting), now working as a data scientist.
 
 ## Toolbox
 Python, pandas, NumPy, scikit-learn, SHAP, PyTorch, TensorFlow, SQL (DuckDB), Power BI, Tableau, Streamlit, Plotly, Git
